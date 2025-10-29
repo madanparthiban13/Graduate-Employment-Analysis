@@ -28,7 +28,7 @@ The analysis supports students, educators, and policymakers in understanding how
 
 ## Data Source
 Data was obtained from the official  
-[Singapore Ministry of Education – Graduate Employment Survey (GES)](https://www.moe.gov.sg/resources/statistics/graduates-employment-survey)
+[Singapore Ministry of Education – Graduate Employment Survey (GES)](https://www.data.gov.sg/datasets/d_3c55210de27fcccda2ed0c63fdd2b352/view)
 
 Each dataset includes:
 - University name  
